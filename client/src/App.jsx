@@ -2,7 +2,6 @@ import Terminal from "./components/terminal";
 
 function App() {
   
-
   return (
     <div>
       <div>
